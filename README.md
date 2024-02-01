@@ -1,1 +1,1 @@
-Josie Arganbrights web-dev-hw
+Repository for Web Design homework
