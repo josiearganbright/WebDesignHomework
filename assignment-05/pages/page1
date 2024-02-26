@@ -4,7 +4,10 @@
         <title>Copy of "Diego and I"</title>
     </header>
     <body>
-    <img src="../images/frida.jpg" alt="Diego and I">
+        <p> 
+            Here is a digital copy of Kahlos painting.
+        </p>
+        <img src="../images/frida.jpg" alt="Diego and I">
     <br>
     <a href="../index.html">this link goes back to the index </a>
 </body>
