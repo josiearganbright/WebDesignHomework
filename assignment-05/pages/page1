@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
-    <img src="https://www.fridakahlo.org/assets/img/paintings/diego-and-i.jpg" alt="Diego and I"
-<br>
-<a href="../index.html">this link goes back to the index <a>
-    
+    <header>
+        <title>Copy of "Diego and I"</title>
+    </header>
+    <body>
+    <img src="https://www.fridakahlo.org/assets/img/paintings/diego-and-i.jpg" alt="Diego and I">
+    <br>
+    <a href="../index.html">this link goes back to the index </a>
+</body>
