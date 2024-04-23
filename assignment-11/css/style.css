@@ -1,3 +1,6 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 div {
     text-align: left;
 }
@@ -7,4 +10,11 @@ div {
     padding: 50px;
     border-bottom: 1px black;
     border-spacing: inherit;
+}
+header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    font-family: Lugrasimo-Regular;
+    text-align: center;
 }
