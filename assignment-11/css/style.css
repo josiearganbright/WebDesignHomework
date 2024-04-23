@@ -27,11 +27,17 @@ h1 {
     font-size: 50px;
     text-decoration: underline;
 }
-#Gentileschi{
+#hovering{
     text-decoration: underline;
 }
-#Gentileschi:hover{
+#hovering:hover{
     text-decoration: underline;
     text-decoration-color: aqua;
-    font-style: aqua;
+}
+#Caravaggio{
+    text-decoration: underline;
+}
+#Caravaggio:hover{
+    text-decoration: underline;
+    text-decoration-color: aqua;
 }
