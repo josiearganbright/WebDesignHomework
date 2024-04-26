@@ -13,7 +13,8 @@ div.align{
 }
 
 .inner-box{
-    width: 500;
+    width: 500px;
+    height: 100px;
     padding: auto;
     background-color: lightblue;
 }
