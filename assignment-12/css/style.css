@@ -1,0 +1,19 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.parent-container{
+    background-color: cadetblue;
+    width: 500px;
+    margin: auto;
+}
+
+div.align{
+    text-align: center;
+}
+
+.inner-box{
+    width: 480;
+    padding: 20px;
+    background-color: lightblue;
+}
