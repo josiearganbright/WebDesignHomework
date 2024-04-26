@@ -4,7 +4,7 @@ body{
 
 .parent-container{
     background-color: cadetblue;
-    width: 1000px;
+    width: 50%;
     margin: auto;
 }
 
@@ -13,8 +13,12 @@ div.align{
 }
 
 .inner-box{
-    width: 500px;
+    width: 50%;
     height: 100px;
     padding: auto;
     background-color: lightblue;
+}
+
+.scroll{
+    overflow: scroll;
 }
