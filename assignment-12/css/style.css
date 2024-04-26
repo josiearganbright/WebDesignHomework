@@ -22,3 +22,8 @@ div.align{
 .scroll{
     overflow: scroll;
 }
+.button{
+    border: 10px;
+    background-color: palegreen;
+    border-color: black;
+}
