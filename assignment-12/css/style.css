@@ -23,7 +23,9 @@ div.align{
     overflow: scroll;
 }
 .button{
+    width: 500px;
     border: 10px;
     background-color: palegreen;
     border-color: black;
+    text-align: center;
 }
