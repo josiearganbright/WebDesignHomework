@@ -25,9 +25,9 @@ div.align{
 .button{
     width: 500px;
     border-width: 10px;
+    border-color: black;
     margin: auto;
     padding: 1cm;
     background-color: palegreen;
-    border-color: black;
     text-align: center;
 }
