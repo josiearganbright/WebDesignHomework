@@ -8,11 +8,22 @@
     color: white;
 }
 
+.menu-item:hover {
+    background-color: crimson;
+    color: azure;
+}
+
+.menu-item a{
+    color: white;
+    text-decoration: none;
+}
+
 header {
     position: fixed;
     display: inline-block;
     background-color: lightgray;
     font-family: monospace;
+    font-size: 30px;
 }
 
 body {
