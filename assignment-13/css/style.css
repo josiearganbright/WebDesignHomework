@@ -34,6 +34,7 @@ div {
     text-align: left;
     font-family: monospace;
     padding: 10px;
+    margin-bottom: 10px;
 }
 
 .paragraphs {
