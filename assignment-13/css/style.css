@@ -35,6 +35,7 @@ div {
     font-family: monospace;
     padding: 10px;
     margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 .paragraphs {
@@ -45,5 +46,4 @@ div {
 h1, h2 {
     text-align: right;
     font-family: fantasy;
-    font-size: larger;
 }
