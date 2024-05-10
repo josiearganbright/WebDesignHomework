@@ -68,3 +68,34 @@ table {
     font-size: 20px;
     padding: 10px;
 }
+
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid black;
+    margin: 5px;
+    color: #000;
+    background-color:firebrick;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: white;
+    text-decoration: none;
+}
+
+.dropdown-item {
+    display: block;
+    text-align: center;
+    margin: 0;
+    padding: 5px;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: white;
+    background-color: crimson;
+}
