@@ -23,7 +23,7 @@ header {
     display: inline-block;
     background-color: lightgray;
     font-family: monospace;
-    font-size: 10px;
+    font-size: 20px;
 }
 
 body {
@@ -38,7 +38,7 @@ div {
 }
 
 .paragraphs {
-    font-size: 10px;
+    font-size: 20px;
     text-indent: 10px;
 }
 
