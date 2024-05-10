@@ -43,6 +43,7 @@ div {
 }
 
 h1, h2 {
-    text-align: center;
+    text-align: right;
     font-family: fantasy;
+    font-size: larger;
 }
