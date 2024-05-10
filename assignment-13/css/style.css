@@ -52,7 +52,7 @@ h1, h2 {
 .picture1 {
     float: left;
     content: url(../images/art.jpg);
-    width: 50px;
+    width: 500px;
 }
 
 @media only screen and (min-width: 600px) {
