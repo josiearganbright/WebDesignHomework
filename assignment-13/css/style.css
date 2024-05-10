@@ -52,10 +52,18 @@ h1, h2 {
 .picture1 {
     float: left;
     content: url(../images/art.jpg);
+    width: 50px;
 }
 
 @media only screen and (min-width: 600px) {
     .picture1 {
         content: url(../images/art.jpg);
     }
+}
+
+table {
+    border: 1px solid black;
+    font-family: fantasy;
+    font-size: 20px;
+    padding: 10px;
 }
