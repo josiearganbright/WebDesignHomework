@@ -46,3 +46,12 @@ ctx.closePath();
 ctx.fillStyle = 'yellow';
 ctx.fill();
 ctx.stroke();
+
+ctx.beginPath();
+ctx.moveTo(0, 0);
+ctx.lineTo(0, 500);
+ctx.lineTo(500, 500);
+ctx.lineTo(500,0);
+ctx.closePath();
+ctx.fill();
+ctx.stroke();
