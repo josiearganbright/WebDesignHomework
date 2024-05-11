@@ -13,8 +13,8 @@ div {
 .paragraphs {
     font-size: 20px;
     text-indent: 10px;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 550px;
+    margin-right: 550px;
 }
 
 header {
@@ -45,3 +45,8 @@ header {
     text-decoration: none;
 }
 
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 50px;
+}
